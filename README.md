@@ -52,7 +52,7 @@ And Many more under construction
 
 ### 📫 How to Reach Me:
 - [My contact](+254724213558)
-- [Email](mailto:your.email@example.com)
+- [Email](terencenjenga18@outlook.com)
 
 ---
 
