@@ -71,6 +71,11 @@ I’m a full-stack developer who thrives on tackling challenging projects that s
     <img alt="DRF" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
     <span>Express</span>
   </div>
+      <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="DRF" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg"/>
+    <span>Prisma</span>
+  </div>
+
 </div>
 
 ### Tools & Platforms
