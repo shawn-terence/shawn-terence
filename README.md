@@ -11,70 +11,90 @@ I’m a full-stack developer who thrives on tackling challenging projects that s
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ### Languages
-<div style="display:flex; justify-content:space-around;">
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> TypeScript
+<div style="display:flex; justify-content:space-around; gap:20px;">
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <span>TypeScript</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <span>JavaScript</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <span>Python</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <span>HTML</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <span>CSS</span>
+  </div>
 </div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> JavaScript
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;"><img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> Python</div>
-<div style=" display:flex; flex-direction:column; gap:5px;"><img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> HTML</div>
-<div style=" display:flex; flex-direction:column; gap:5px;"><img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> CSS</div>
-</div>
-
 
 ### Frameworks & Libraries
-<div style="display:flex; justify-content:space-around;">
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
+<div style="display:flex; justify-content:space-around; gap:20px;">
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <span>React</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <span>Django</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Flask" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <span>Flask</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="SQLAlchemy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+    <span>SQLAlchemy</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="DRF" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg" />
+    <span>Django REST Framework</span>
+  </div>
 </div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> Django
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Flask" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> Flask
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="SQLAlchemy" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" /> SQLAlchemy
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="DRF" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" /> Django REST Framework
-</div>
-</div>
-<br></br>
 
 ### Tools & Platforms
-<div style="display:flex; justify-content:space-around;">
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> GitHub
+<div style="display:flex; justify-content:space-around; gap:20px;">
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <span>GitHub</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <span>Bash</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Vite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
+    <span>Vite</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    <span>Git</span>
+  </div>
 </div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> Bash
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Vite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" /> Vite
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> Git
-</div>
-</div>
-<br><br/>
 
 ### Styling & UI Frameworks
-<div style="display:flex; justify-content:space-around;">
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> Bootstrap
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> Tailwind CSS
-</div>
-<div style=" display:flex; flex-direction:column; gap:5px;">
-<img align="left" alt="NextUI" width="40px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4" /> NextUI
-</div>
+<div style="display:flex; justify-content:space-around; gap:20px;">
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+    <span>Bootstrap</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+    <span>Tailwind CSS</span>
+  </div>
+  <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="NextUI" width="40px" src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4" />
+    <span>NextUI</span>
+  </div>
 </div>
 
 
