@@ -43,6 +43,14 @@ I’m a full-stack developer who thrives on tackling challenging projects that s
     <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <span>React</span>
   </div>
+    <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="React" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
+    <span>Vue</span>
+  </div>
+    <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="React" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" />
+    <span>Quasar</span>
+  </div>
   <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
     <img alt="Django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
     <span>Django</span>
@@ -58,6 +66,10 @@ I’m a full-stack developer who thrives on tackling challenging projects that s
   <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
     <img alt="DRF" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain.svg" />
     <span>Django REST Framework</span>
+  </div>
+    <div style="display:grid; grid-template-rows: 1fr auto; text-align:center; gap:5px;">
+    <img alt="DRF" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
+    <span>Express</span>
   </div>
 </div>
 
@@ -104,6 +116,7 @@ I’m a full-stack developer who thrives on tackling challenging projects that s
 
 ### 💼 Featured Projects
 - [My Inventory](https://github.com/shawn-terence/My-Inventory-Front): An inventory management system made for small scale entreprenuers for sales and inventory management using Django and React.
+- [Hrify](https://github.com/shawn-terence/Hrify-frontend):A web application for HR management, built with React and Django. It allows users to manage employee data, track attendance, and generate reports.
 
 And Many more under construction
 ---
